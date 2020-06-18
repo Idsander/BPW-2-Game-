@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Platform
+  - Player
+  - PostProcessing
+  - Climbwall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Colission
+    uniqueID: 2941930463
+    locked: 0
+  - name: Background
+    uniqueID: 872265841
+    locked: 0
+  - name: Background Fern
+    uniqueID: 4012238153
+    locked: 0
+  - name: Player
+    uniqueID: 4014588069
+    locked: 0
+  - name: Environement
+    uniqueID: 1718317107
+    locked: 0
+  - name: Foreground Fern
+    uniqueID: 3295128605
+    locked: 0
+  - name: Far Foreground Fern
+    uniqueID: 2930820109
+    locked: 0
